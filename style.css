@@ -32,11 +32,15 @@ header {
 header h1 {
   font-family: 'Black Ops One', cursive;
     padding-top: 20rem;
-    text-shadow:  1px 1px 2px white,
+   
+}
+
+
+header h1:hover {
+  text-shadow:  1px 1px 2px white,
   0 0 1em white,
   0 0 0.2em white;
 }
-
 .video {
 
     display: flex;
